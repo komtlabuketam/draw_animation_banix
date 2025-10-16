@@ -1,0 +1,18 @@
+{
+  "data": {
+    "app_info": [
+      {
+        "what_news": "- Support Landscape Orientation\n- Draw & export with Full HD Quality\n- Fix some bugs\n- Optimize performance.",
+        "force_update": "true",
+        "package_name": "com.banix.drawsketch.animationmaker",
+        "version_code": 74,
+        "version_name": "8.3",
+        "new_package_name": "com.banix.drawsketch.animationmaker"
+      }
+    ]
+  },
+  "meta": {
+    "message": null,
+    "success": 1
+  }
+}
